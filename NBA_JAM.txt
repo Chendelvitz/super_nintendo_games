@@ -1,2 +1,2 @@
 NBA JAM:
-	This game was copyrighted in 1991 and features all NBA teams with different players from each team, different statistics, and different animations. You can play against a CPU player, as a team with someone else on the console against a CPU player, or against someone else on the console as a 1v1 game. 
+This game was copyrighted in 1991 and features all NBA teams with different players from each team, different statistics, and different animations. You can play against a CPU player, as a team with someone else on the console against a CPU player, or against someone else on the console as a 1v1 game. 
