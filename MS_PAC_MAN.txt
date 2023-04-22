@@ -1,1 +1,2 @@
-        1 file(s) copied.
+Ms. Pac-Man:
+This game is a classic that most people are aware of. You are in a maze like area, you have to eat up all of the dots, and when you eat a big one all of the little ghosts(Inky, Blinky, Pinky, and Sue) are  vulnerable and can be eaten. You can play against other console players, with them, or solo. 

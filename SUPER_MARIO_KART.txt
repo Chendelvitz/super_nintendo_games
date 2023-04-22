@@ -1,1 +1,2 @@
-        1 file(s) copied.
+Super Mario Kart:
+This game has multiple different Super Mario characters that race each other in karts. The objective is to win the race after completing three laps on various maps. You can play with friends and against CPUs. 
