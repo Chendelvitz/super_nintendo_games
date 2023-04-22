@@ -6,7 +6,7 @@
 
 <sub>Note: There are two alternating types of this particular console. There is the Japanese Super Famicom. Then there is the North American Super NES. I personally own the latter. The Japanese Super Famicom has the same design as the European Super NES as well. NES stands for Nintendo Entertainment System.</sub>
 
-
+![Here is an image of my own Super Nintendo: ("C:\Users\henry\Downloads\IMG_0565.jpg")]
 
 **As you can tell, I am unhealthily passionate about this console.**
 
