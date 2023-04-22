@@ -6,11 +6,11 @@
 
 <sub>Note: There are two alternating types of this particular console. There is the Japanese Super Famicom. Then there is the North American Super NES. I personally own the latter. The Japanese Super Famicom has the same design as the European Super NES as well. NES stands for Nintendo Entertainment System.</sub>
 
-![Here is an image of the Super Nintendo model I own: (https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/SNES-Mod1-Console-Set.jpg/250px-SNES-Mod1-Console-Set.jpg)]
+**Here is an image of my personal Super Nintendo:**
+
+/assets/images/IMG_0565.jpg
 
 **As you can tell, I am unhealthily passionate about this console.**
-
-[Anyways, here is a Wikipedia link containg all of that info. and more: (https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System)]
 
 **Basic Java Example Code:**
 
